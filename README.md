@@ -6,5 +6,5 @@ vnejvnerjvnerv
 ![O](Onfim.jpg)
 ![B](Bb199.gif)
 
-[](wikipedia.org)
-[](Onfim.jpg)
+[link to wiki](wikipedia.org)
+[onfim](Onfim.jpg)
